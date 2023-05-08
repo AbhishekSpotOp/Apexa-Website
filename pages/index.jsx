@@ -29,7 +29,7 @@ export default function Index() {
   <div className="py-10"></div>
   <Link href={"https://top.gg/bot/1003647025096691813/vote"}>
   <a className={" px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
-Vote Treo</a>
+Vote Apexa</a>
   </Link>
         </div>
 
@@ -90,7 +90,7 @@ Vote Treo</a>
                   <p className="text-3xl text-white font-semibold">Best Your Apexa</p>
                   <p className="text-md text-white font-medium text-gray-500 line-clamp-5">Are you ready to throw the best parties with Apexa, the best and most up-to-date bot?</p>
                 </div>
-                <img src="https://www.linkpicture.com/q/Capture_449.png" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
+                <img src="https://media.discordapp.net/attachments/1017389436541075520/1105157610690334851/IMG_20230508_211107.jpg" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
               </>
       
         </div>
