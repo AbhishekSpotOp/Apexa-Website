@@ -63,7 +63,7 @@ const categories = [
         usage: ""
       },
       {
-        name: "Chopwood",
+        name: "Check help menu for more information",
         description: "",
         usage: ""
       }
@@ -309,9 +309,11 @@ const categories = [
     name: "Welcome",
     commands: [
       {
-        name: "Soon",
+        name: "setjoinmsg",
         description: "",
-        usage: "Soon"
+        usage: "setup the welcome msg"
+      }
+
       }
     ]
   }
