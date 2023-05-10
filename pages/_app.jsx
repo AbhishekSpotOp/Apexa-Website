@@ -27,13 +27,6 @@ export default function AwardApp({ Component, pageProps }) {
     },
     {
       link: true,
-      name: "Commands",
-      icon: "fa fa-list-alt",
-      activeIcon: "fa fa-list-alt",
-      href: "/commands",
-    },
-    {
-      link: true,
       name: "Support",
       icon: "fab fa-discord",
       activeIcon: "fab fa-discord",
@@ -78,7 +71,7 @@ export default function AwardApp({ Component, pageProps }) {
       />
       <Head>
         <title>
-          Treo
+          Apexa
         </title>
       </Head>
       <main className="transition-all duration-200 z-10 absolute inset-0 px-5 h-screen max-w-7xl w-full mx-auto">
