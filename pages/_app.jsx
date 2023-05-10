@@ -56,8 +56,8 @@ export default function AwardApp({ Component, pageProps }) {
     {
       link: true,
       name: "Developers",
-      icon: "fal fa-developers",
-      activeIcon: "fa fa-developers",
+      icon: "fal fa-code",
+      activeIcon: "fa fa-code",
       href: "/developers",
     }
   ]
