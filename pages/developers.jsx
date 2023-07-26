@@ -18,7 +18,7 @@ export default function Developers() {
             <div className="flex flex-col justify-center text-white rounded">
             <a href="https://dsc.gg/apexa-support">
                         <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
-                            <img className="rounded-full h-32 w-32" src="https://images-ext-1.discordapp.net/external/l_rbJw1qSeWi7QIpLAlITe99q1t62MNJxMytj8DUA6E/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/822541512968765452/3fa2792a0d00fb5c310382713b00516a.webp" />
+                            <img className="rounded-full h-32 w-32" src="https://images-ext-2.discordapp.net/external/Z6YJ1hUWPFTsSnQst35MIG1j4JDwNKzqaV9M3W7A25E/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/822541512968765452/dc47f55df44daeb0ab2623df7abfd254.webp" />
                             <div>
                                 <h1 className="leading-none text-3xl font-bold text-white">Heyo! I'm Abhishek,</h1>        
                                 <div className="flex items-center mt-1">
@@ -34,7 +34,7 @@ export default function Developers() {
                     <div className="flex flex-col justify-center text-white rounded">
                         <a href="https://dsc.gg/apexa-support">
                             <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
-                            <img className="rounded-full h-32 w-32" src="https://images-ext-2.discordapp.net/external/vm9yIuRIt8m-lT8TyIke_bsvFDDEUQOplctY54ZYeho/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/1027468380392935424/ff0f48eb258a3713db38f3ef7a097b80.webp" />
+                            <img className="rounded-full h-32 w-32" src="https://images-ext-2.discordapp.net/external/gYla0oFl30cZrFdL04MmUE_5Xe1C8diYt-Qa1_bntDM/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/1027468380392935424/3504ea22aa10a9bea7887e637b1e48d1.webp" />
                             <div>
                                 <h1 className="leading-none text-3xl font-bold text-white">Heyo! I'm<br />Prem,</h1>        
                                 <div className="flex items-center mt-1">
