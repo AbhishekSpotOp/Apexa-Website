@@ -32,14 +32,16 @@ export default function Partners() {
                     </div>
 
                     <div className="flex flex-col justify-center text-white rounded">
-                        <a href="https://dsc.gg/apexa-support">
+                        <a href="https://discord.gg/JQsGN9wmAp">
                             <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
-                            <img className="rounded-full h-32 w-32" src="" />
+                            <img className="rounded-full h-32 w-32" src="https://media.discordapp.net/attachments/1085947319876333728/1155177920072003705/7576949de11f3a0bf80a099f5d26c4f5.png" />
                             <div>
-                                <h1 className="leading-none text-3xl font-bold text-white">None</h1>        
+                                <h1 className="leading-none text-3xl font-bold text-white">Raiden/h1>        
                                 <div className="flex items-center mt-1">
                                     <p className="font-normal font-sm">
-                                    None!
+                                    Join Raiden Community Today!
+Looking for a place to hang out with gamers and tech enthusiasts from around the world? Look no further than Raiden Community! 
+It is a place where you can hang out with Tech Enthusiasts and Gamers all around the globe.
                                     </p>
                                 </div>     
                             </div>
