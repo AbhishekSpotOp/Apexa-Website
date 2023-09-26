@@ -62,10 +62,10 @@ export default function AwardApp({ Component, pageProps }) {
     },
     {
       link: true,
-      name: "Developers",
+      name: "Privacy Policy & Tos",
       icon: "fal fa-book",
-      activeIcon: "Privacy policy & Tos",
-      href: "/privacytos.html",
+      activeIcon: "fa fa-book",
+      href: "/privacy.html",
     }
   ]
 
