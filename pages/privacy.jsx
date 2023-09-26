@@ -2,8 +2,8 @@ export default function Privacy() {
 
     return (
         <div>
-            <h1 className="font-semibold text-3xl text-white/75">Privacy Policy for Treo</h1>
-            <p className="text-sm text-white/30 mb-4">Last Update: 20/05/2022  🆕️</p>
+            <h1 className="font-semibold text-3xl text-white/75">Privacy Policy for Apexa</h1>
+            <p className="text-sm text-white/30 mb-4">Last Update: 20/05/2022</p>
   <div className="animateHeader text-white text-opacity-40 mt-5">
         <h2 className="font-semibold text-3xl text-white/75">Usage Of Data</h2>
         <p>⊳ The bot may use stored data for different purposes, including but not limited to:
@@ -30,9 +30,11 @@ No other actions may update the stored information at any given time.</p>
         <p>⊳ Stored Data can be removed automatically through means of removing the bot from a Server. This can be achieved by either kicking or banning the bot from the server. Re-inviting the bot will add the same default values, as mentioned above, back to the bot's' database..</p>   
         <div className="py-3"></div>
     <h1 className="font-semibold text-3xl text-white/75">Manual Removal</h1>
-        <p>⊳ Manual removal of the data can be requested by contacting the developer DEVANSH#4075 with the subject 'Removal of Yuzu Data'. For security reasons will we ask you to provide us with proof of ownership of the server, that you wish the data to be removed of. Only a server owner may request manual removal of data and requesting it will result in the bot being removed from the server, if still present on it.</p>
-       
-    
+        <p>⊳ Manual removal of the data can be requested by contacting the developer abhishekspot with the subject 'Removal of Data'. For security reasons will we ask you to provide us with proof of ownership of the server, that you wish the data to be removed of. Only a server owner may request manual removal of data and requesting it will result in the bot being removed from the server, if still present on it.</p>
+   <div className="py-3"></div>
+    <h1 className="font-semibold text-3xl text-white/75">Got concerns or Queries?</h1>
+        <p>⊳  if you have any concerns or queries relating our privacy policy or our bot or if you want your data to be removed, You can contact abhishekspot directy on our Support Server!.</p>    
+     
         </div>
             </div>
     );
