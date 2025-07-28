@@ -18,7 +18,7 @@ export default function Developers() {
             <div className="flex flex-col justify-center text-white rounded">
             <a href="https://dsc.gg/apexa-support">
                         <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
-                            <img className="rounded-full h-32 w-32" src="https://images-ext-2.discordapp.net/external/Z6YJ1hUWPFTsSnQst35MIG1j4JDwNKzqaV9M3W7A25E/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/822541512968765452/dc47f55df44daeb0ab2623df7abfd254.webp" />
+                            <img className="rounded-full h-32 w-32" src="https://cdn.discordapp.com/attachments/1171829500154216509/1399277662228451411/IMG_20250415_002710_189.webp?ex=68886a5f&is=688718df&hm=b1816e0f9026d100a67ad6e4ddbd930ab5158d0a04f0673074b052be3c88651c&" />
                             <div>
                                 <h1 className="leading-none text-3xl font-bold text-white">Heyo! I'm Abhishek,</h1>        
                                 <div className="flex items-center mt-1">
@@ -34,7 +34,7 @@ export default function Developers() {
                     <div className="flex flex-col justify-center text-white rounded">
                         <a href="https://dsc.gg/apexa-support">
                             <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
-                            <img className="rounded-full h-32 w-32" src="https://images-ext-2.discordapp.net/external/gYla0oFl30cZrFdL04MmUE_5Xe1C8diYt-Qa1_bntDM/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/1027468380392935424/3504ea22aa10a9bea7887e637b1e48d1.webp" />
+                            <img className="rounded-full h-32 w-32" src="https://cdn.discordapp.com/avatars/1389067789100388407/c9c59802615fa8c65f0807d774a27892.png?size=4096" />
                             <div>
                                 <h1 className="leading-none text-3xl font-bold text-white">Heyo! I'm<br />Prem,</h1>        
                                 <div className="flex items-center mt-1">
